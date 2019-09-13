@@ -15,3 +15,9 @@ Italy's website, extracts the "Components" data set, infers unique
 identifiers and saves the result to disk as a CSV file. Further information 
 about the "Components" data set is available in the [documentation](https://www.bancaditalia.it/statistiche/tematiche/indagini-famiglie-imprese/bilanci-famiglie/documentazione/Shiw-Historical-Database.pdf?language_id=1) (p. 14-19) 
 published by the Bank of Italy.
+
+To run the script, download `generate-comp-fixed.R` and run the following 
+in a terminal:
+```bash
+$ Rscript generate-comp-fixed.R
+```

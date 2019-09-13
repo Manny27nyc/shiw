@@ -1,8 +1,8 @@
 # Pre-processing script: Survey of Household Income and Wealth (Bank of Italy)
 
 The Bank of Italy makes anonymised microdata available from its Survey of 
-Household Income and Wealth. Further information about the data and  
-conditions for use is available [here](https://www.bancaditalia.it/statistiche/tematiche/indagini-famiglie-imprese/bilanci-famiglie/distribuzione-microdati/index.html).
+Household Income and Wealth. Further information about the data and conditions 
+for use is available [here](https://www.bancaditalia.it/statistiche/tematiche/indagini-famiglie-imprese/bilanci-famiglie/distribuzione-microdati/index.html).
 
 For many applications, it is useful to have a unique identifier for individuals 
 across waves of the survey (from 1989 and onwards). Unique identifiers are 
